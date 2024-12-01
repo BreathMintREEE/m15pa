@@ -1,3 +1,8 @@
+// BookRepository.java
+// D. Singletary
+// 11/24/24
+// Database code for book manager
+
 package edu.cop3330c.bookmanager;
 
 // add DB imports
